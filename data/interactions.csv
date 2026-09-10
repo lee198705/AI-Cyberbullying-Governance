@@ -1,0 +1,16 @@
+user_id,article_id,action
+U001,A001,like
+U001,A005,view
+U002,A004,share
+U002,A003,view
+U003,A002,like
+U003,A003,share
+U004,A001,view
+U004,A006,like
+U005,A004,like
+U006,A002,share
+U007,A005,like
+U007,A001,view
+U008,A003,like
+U009,A005,share
+U010,A001,like
